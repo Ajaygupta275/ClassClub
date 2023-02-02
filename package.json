@@ -1,0 +1,23 @@
+{
+  "name": "classclub",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajaygupta275/ClassClub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajaygupta275/ClassClub/issues"
+  },
+  "homepage": "https://github.com/Ajaygupta275/ClassClub#readme",
+  "description": "",
+  "dependencies": {
+    "firebase": "^9.12.0"
+  }
+}
